@@ -22,9 +22,9 @@
     <!-- Hero End -->
 
 
-    <!-- About Start -->
+      <!-- About Start -->
     <div class="container-fluid py-5">
-        <div class="container py-5">
+        <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6">
                     <div class="row">
@@ -34,27 +34,24 @@
                         <div class="col-6 wow fadeIn" data-wow-delay="0.3s">
                             <img class="img-fluid h-75" src="img/about-2.jpg" alt="">
                             <div class="h-25 d-flex align-items-center text-center bg-primary px-4">
-                                <h4 class="text-white lh-base mb-0">Award Winning Studio Since 1990</h4>
+                                <h4 class="text-white lh-base mb-0">Transforming Spaces With Excellence</h4>
                             </div>
                         </div>
                     </div>
                 </div>
+                
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-5"><span class="text-uppercase text-primary bg-light px-2">History</span> of Our
-                        Creation</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-                        amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
-                        clita duo justo et tempor eirmod magna dolore erat amet</p>
-                    <p class="mb-5">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no
-                        labore lorem sit. Sanctus clita duo justo et tempor.</p>
+                    <h1 class="mb-5"><span class="text-uppercase text-primary bg-light px-2">About</span> Shree Balaji Interior Design</h1>
+                    <p class="mb-4">At Shree Balaji Interior Design, we believe that every space has a story to tell. We specialize in creating personalized, functional, and aesthetically stunning interiors for residential and commercial spaces. Our team ensures that your vision is brought to life with absolute precision and care.</p>
+                    <p class="mb-5">From conceptualization to final execution, we handle every single detail of your interior journey. We blend modern aesthetics with practical solutions to build environments you will love for years to come.</p>
                     <div class="row g-3">
                         <div class="col-sm-6">
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-2"></i>Award Winning</h6>
-                            <h6 class="mb-0"><i class="fa fa-check text-primary me-2"></i>Professional Staff</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-2"></i>Premium Quality Materials</h6>
+                            <h6 class="mb-0"><i class="fa fa-check text-primary me-2"></i>Expert Design Team</h6>
                         </div>
                         <div class="col-sm-6">
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-2"></i>24/7 Support</h6>
-                            <h6 class="mb-0"><i class="fa fa-check text-primary me-2"></i>Fair Prices</h6>
+                            <h6 class="mb-3"><i class="fa fa-check text-primary me-2"></i>On-Time Project Delivery</h6>
+                            <h6 class="mb-0"><i class="fa fa-check text-primary me-2"></i>Transparent Pricing</h6>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mt-5">
@@ -69,6 +66,7 @@
         </div>
     </div>
     <!-- About End -->
+
 
 
     <!-- Team Start -->
@@ -175,9 +173,9 @@
     <!-- Team End -->
 
 
-    <!-- Feature Start -->
+   <!-- Feature Start -->
     <div class="container-fluid py-5">
-        <div class="container py-5">
+        <div class="container">
             <div class="text-center wow fadeIn" data-wow-delay="0.1s">
                 <h1 class="mb-5">Why People <span class="text-uppercase text-primary bg-light px-2">Choose Us</span></h1>
             </div>
@@ -185,37 +183,39 @@
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                     <i class="fa fa-calendar-alt fa-5x text-primary mb-4"></i>
                     <h4>25+ Years Experience</h4>
-                    <p class="mb-0">Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                    <p class="mb-0">With over two decades of expertise, Shree Balaji Interior Design delivers unmatched craftsmanship and reliable home transformation services.</p>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.3s">
                     <i class="fa fa-tasks fa-5x text-primary mb-4"></i>
                     <h4>Best Interior Design</h4>
-                    <p class="mb-0">Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                    <p class="mb-0">We create aesthetically pleasing and highly functional spaces tailored to match your unique lifestyle and personal taste.</p>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.5s">
                     <i class="fa fa-pencil-ruler fa-5x text-primary mb-4"></i>
                     <h4>Innovative Architects</h4>
-                    <p class="mb-0">Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                    <p class="mb-0">Our expert team utilizes modern design trends and smart space planning to turn your dream home into a beautiful reality.</p>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.1s">
                     <i class="fa fa-user fa-5x text-primary mb-4"></i>
                     <h4>Customer Satisfaction</h4>
-                    <p class="mb-0">Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                    <p class="mb-0">Your vision is our priority. We ensure transparent communication, timely project delivery, and complete peace of mind.</p>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.3s">
                     <i class="fa fa-hand-holding-usd fa-5x text-primary mb-4"></i>
                     <h4>Budget Friendly</h4>
-                    <p class="mb-0">Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                    <p class="mb-0">Enjoy premium interior solutions at highly competitive prices with absolutely no hidden costs or last-minute surprises.</p>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeIn" data-wow-delay="0.5s">
                     <i class="fa fa-check fa-5x text-primary mb-4"></i>
                     <h4>Sustainable Material</h4>
-                    <p class="mb-0">Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
+                    <p class="mb-0">We use only top-grade, eco-friendly, and highly durable materials to ensure your home interiors stand the test of time.</p>
                 </div>
             </div>
         </div>
     </div>
     <!-- Feature End -->
+
+
 
 
        <?php include "footer.php" ?>
